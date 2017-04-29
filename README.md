@@ -1,6 +1,10 @@
 # This is Bowen's Branch
 
-Constructing...
+How to use tensorflow in python3:
+
+INSTALL :  pip3 install tensorflow
+
+//Constructing...
 
 # ML
 April.22 2017 Meeting
